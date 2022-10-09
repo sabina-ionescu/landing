@@ -1,0 +1,35 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+  font-family:  'Montserrat', serif;
+  font-size:  18px;
+  margin: 0px;
+  background-color: white;
+
+}
+
+h1{
+  font-family: 'Libre Bodoni', sans-serif ;
+  font-size: 50px;
+  letter-spacing: 6px;
+  font-weight: lighter
+}
+
+h2, h3{
+  font-family: 'Libre Bodoni', sans-serif ;
+  font-size: 30px;
+  letter-spacing: 2px;
+  font-weight: lighter;
+  padding: 30px ;
+
+}
+
+a{
+  text-decoration: none;
+  font-family: Montserrat;
+}
+
