@@ -1,0 +1,24 @@
+.banner{
+  background-image:  linear-gradient(-225deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(../../images/background.jpg);
+  color: white;
+  padding: 150px 0px;
+  background-size: cover;
+  background-position: center;
+}
+
+.banner h1{
+  font-size: 60px;
+  margin: auto;
+}
+
+.banner h2{
+  font-size: 18px;
+  font-weight: lighter;
+  opacity: 0.8;
+  margin: 20px auto;
+  color: white;
+  font-family: 'Montserrat';
+  font-style: italic;
+}
+
+
